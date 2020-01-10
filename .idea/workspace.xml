@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="033cecc9-ab40-434b-9a99-8195a14c6b23" name="Default Changelist" comment="" />
+    <list default="true" id="033cecc9-ab40-434b-9a99-8195a14c6b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chinese_chef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WA03uqGqiEKSvhBZWH4Mv7UPEV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +32,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig" />
   </component>
-  <component name="RunManager" selected="Python.quizz_app">
+  <component name="RunManager" selected="Python.loops">
     <configuration name="class_import" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyFirstAppp" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -38,6 +49,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_import.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="class_inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstAppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstAppp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,55 +162,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyFirstAppp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wright_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyFirstAppp" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wright_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.loops" />
+        <item itemvalue="Python.class_inheritance" />
         <item itemvalue="Python.quizz_app" />
         <item itemvalue="Python.class_import" />
         <item itemvalue="Python.modules" />
-        <item itemvalue="Python.wright_files" />
-        <item itemvalue="Python.read_file" />
       </list>
     </recent_temporary>
   </component>
@@ -191,26 +202,26 @@
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state x="618" y="190" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.721@0.23.1280.721" timestamp="1578646107178" />
-    <state width="778" height="166" key="GridCell.Tab.0.bottom" timestamp="1578656565080">
+    <state width="778" height="166" key="GridCell.Tab.0.bottom" timestamp="1578692735395">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="778" height="166" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1578649669314" />
-    <state width="778" height="166" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1578656565080" />
-    <state width="778" height="166" key="GridCell.Tab.0.center" timestamp="1578656565079">
+    <state width="778" height="166" key="GridCell.Tab.0.bottom/0.23.1280.721@0.23.1280.721" timestamp="1578692735395" />
+    <state width="778" height="166" key="GridCell.Tab.0.center" timestamp="1578692735394">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="778" height="166" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1578649669313" />
-    <state width="778" height="166" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1578656565079" />
-    <state width="778" height="166" key="GridCell.Tab.0.left" timestamp="1578656565078">
+    <state width="778" height="166" key="GridCell.Tab.0.center/0.23.1280.721@0.23.1280.721" timestamp="1578692735394" />
+    <state width="778" height="166" key="GridCell.Tab.0.left" timestamp="1578692735393">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="778" height="166" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1578649669313" />
-    <state width="778" height="166" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1578656565078" />
-    <state width="778" height="166" key="GridCell.Tab.0.right" timestamp="1578656565079">
+    <state width="778" height="166" key="GridCell.Tab.0.left/0.23.1280.721@0.23.1280.721" timestamp="1578692735393" />
+    <state width="778" height="166" key="GridCell.Tab.0.right" timestamp="1578692735394">
       <screen x="0" y="23" width="1280" height="721" />
     </state>
     <state width="778" height="166" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1578649669313" />
-    <state width="778" height="166" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1578656565079" />
+    <state width="778" height="166" key="GridCell.Tab.0.right/0.23.1280.721@0.23.1280.721" timestamp="1578692735394" />
     <state x="317" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1578576907876">
       <screen x="0" y="23" width="1280" height="723" />
     </state>

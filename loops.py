@@ -70,4 +70,10 @@ for index in range(length_of_ary):
 #      print(ary[index])
 # TypeError: list indices must be integers or slices, not str
 
-
+# 9. it gives a SyntaxWarning: "is" with a literal. Did you mean "=="?
+#   if fruit is 'mango':
+print('---------it will break when fruit is banana-------------------')
+for fruit in ary:
+    if fruit == 'mango':
+        break
+    print(f'current fruit is {fruit}')
